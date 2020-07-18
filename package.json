@@ -205,7 +205,7 @@
         "fs-extra": "^6.0.1",
         "html-entities": "^1.2.1",
         "humanize-duration": "^3.15.0",
-        "lodash": "^4.17.10",
+        "lodash": "^4.17.19",
         "marked": "^0.4.0",
         "sanitize-filename": "^1.6.1",
         "vscode-helpers": "^2.10.3"
